@@ -27,3 +27,12 @@ Nama : Melsy Nayasi Simorangkir
 Instansi : Kejaksaan Negeri Tangerang Selatan
 Jabatan : Prakom Ahli Pertama
 Sosial Media : @melsynayasisimorangkir
+
+---
+Nama : I Komang Liska Bagiartha
+
+Instansi : Kejaksaan Negeri Karangasem
+
+Jabatan : Pranata Komputer Ahli Pertama
+
+Sosial Media : @Lbagiartha
