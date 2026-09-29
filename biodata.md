@@ -18,14 +18,21 @@ Jabatan : Prakom Ahli Pertama
 Sosial Media : @fadhilmhd15
 
 ---
-Nama : Vedamurti Nuur Anisah 
+Nama : Vedamurti Nuur Anisah
+
 Instansi : Kejaksaan Negeri Yogyakarta
+
 Jabatan : Prakom Ahli Pertama
+
 Sosial Media : @vedaanisah
+
 ---
 Nama : Melsy Nayasi Simorangkir 
+
 Instansi : Kejaksaan Negeri Tangerang Selatan
+
 Jabatan : Prakom Ahli Pertama
+
 Sosial Media : @melsynayasisimorangkir
 
 ---
@@ -38,6 +45,9 @@ Jabatan : Pranata Komputer Ahli Pertama
 Sosial Media : @Lbagiartha
 ---
 Nama : Tasriyah
+
 Instansi : Kejaksaan Negeri Kabupaten Tangerang
+
 Jabatan : Prakom Ahli Pertama
+
 Sosial Media : @Taci.Yah
