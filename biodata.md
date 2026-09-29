@@ -1,4 +1,4 @@
-Ini tadi biodata siapa?
+Ini tadi biodata hayo siapa?
 ---
 Nama : Rahmat
 
