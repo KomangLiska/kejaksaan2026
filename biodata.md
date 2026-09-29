@@ -57,3 +57,9 @@ Nama : Putu Ade Arta Kusuma Putra Suparta
 Instansi : Kejaksaan Negeri Bangli
 Jabatan : Prakom Ahli Pertama
 Sosial Media : @adearta
+
+----
+Nama	        :	Putu Resatya Andrian, S.TI.
+NIP	        :	199404272020121019
+Unit Kerja  	:	Kejaksaan Negeri Jembrana
+Jabatan      	:	Pranata Komputer Ahli Pertama
