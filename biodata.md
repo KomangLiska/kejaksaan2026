@@ -36,7 +36,7 @@ Jabatan : Prakom Ahli Pertama
 Sosial Media : @melsynayasisimorangkir
 
 ---
-Nama : I Komang Liska Bagiartha
+Nama : I Komang Liska Bagiartha, LLM., Phd.
 
 Instansi : Kejaksaan Negeri Karangasem
 
