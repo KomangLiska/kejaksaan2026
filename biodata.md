@@ -52,3 +52,8 @@ Instansi : Kejaksaan Negeri Kabupaten Tangerang
 Jabatan : Prakom Ahli Pertama
 
 Sosial Media : @Taci.Yah
+---
+Nama : Putu Ade Arta Kusuma Putra Suparta
+Instansi : Kejaksaan Negeri Bangli
+Jabatan : Prakom Ahli Pertama
+Sosial Media : @adearta
