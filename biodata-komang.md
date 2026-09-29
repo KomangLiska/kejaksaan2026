@@ -1,4 +1,4 @@
-Nama          : I Komang Liska Bagiartha
+Nama          : Prof. I Komang Liska Bagiarthi
 
 Instansi      : Kejaksaan Negeri Karangasem
 
