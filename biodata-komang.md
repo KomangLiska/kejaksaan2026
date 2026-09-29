@@ -7,3 +7,5 @@ Jabatan       : Pranata Komputer Ahli Pertama
 Sosial Media  : @Lbagiartha
 
 sejak dulu kala
+
+ udah jago
